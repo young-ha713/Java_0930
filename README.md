@@ -269,6 +269,10 @@ public class Pmain {
   
   
   
+instance of :객체 자료형 비교하는 연산자  
+  
+  
+  
   
   
   
